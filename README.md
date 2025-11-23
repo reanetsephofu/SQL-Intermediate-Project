@@ -27,7 +27,7 @@ Analysis of customer behaviour, retention, & lifetime value for e-commerce compa
 
 **VISUALISATION:**
 
-![Segmentation Analysis](/Images/1_segmentation_analysis_chart.png)
+<img src="/Images/1_segmentation_analysis_chart.png" style="width: 50%; height: auto;">
 
 **KEY FINDINGS:**
 
@@ -58,7 +58,7 @@ Analysis of customer behaviour, retention, & lifetime value for e-commerce compa
 
 **VISUALISATION:**
 
-![Cohort Analysis](/Images/2_cohort_analysis_chart.png)
+<img src="/Images/2_cohort_analysis_chart.png" style="width: 50%; height: auto;">
 
 **Key Findings:**
 
@@ -86,7 +86,7 @@ Analysis of customer behaviour, retention, & lifetime value for e-commerce compa
 
 **VISUALISATION:**
 
-![Retention Analysis](/Images/3_retention-churn_analysis_chart.png)
+<img src="/Images/3_retention-churn_analysis_chart.png" style="width: 50%; height: auto;">
 
 **Key Findings:**
 
