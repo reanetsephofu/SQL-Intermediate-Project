@@ -400,4 +400,4 @@ Analysis of customer behaviour, retention, & lifetime value for e-commerce compa
 
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL
-- **Visualisation:** ChatGPT, Power BI
+- **Visualisation:** ChatGPT, Power BI 
